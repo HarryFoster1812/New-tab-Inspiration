@@ -1,0 +1,10 @@
+{
+    "name": "New Tab Theme Thing",
+    "description": "Bring yourself back down to reality every time you open a new tab!",
+    "manifest_version": 3,
+    "version": "0.1",
+    "permissions" : ["management"],
+    "chrome_url_overrides" : {
+        "newtab": "newtab.html"
+    }
+ }
