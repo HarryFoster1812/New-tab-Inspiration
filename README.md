@@ -1,6 +1,6 @@
 # New-tab-Inspiration
 
-## Are you tired of opening a new tab and seeing an *insparational message*?
+## Are you tired of opening a new tab and seeing an *inspirational message*?
 
 *So am I*, that's why i created this chrome extension! Bring yourself back down to ***reality*** every time you open a new tab!
 
